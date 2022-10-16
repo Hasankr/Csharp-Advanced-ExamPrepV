@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Tiles Master", "01. Til
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Wall Destroyer", "02. Wall Destroyer\02. Wall Destroyer.csproj", "{5DD959E5-4D0A-417D-9F37-2D000D871509}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Renovators", "..\..\..\OneDrive\Desktop\New folder (2)\Renovators.csproj", "{F25BF124-DF76-4E01-ACFD-21725392481A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5DD959E5-4D0A-417D-9F37-2D000D871509}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DD959E5-4D0A-417D-9F37-2D000D871509}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DD959E5-4D0A-417D-9F37-2D000D871509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F25BF124-DF76-4E01-ACFD-21725392481A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F25BF124-DF76-4E01-ACFD-21725392481A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F25BF124-DF76-4E01-ACFD-21725392481A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F25BF124-DF76-4E01-ACFD-21725392481A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
